@@ -1,0 +1,155 @@
+c:\documents and settings\smartinez\mis documentos\visual studio 2010\Projects\Apertura de archivos xml\Apertura de archivos xml\bin\Debug\Apertura de archivos xml.exe
+c:\documents and settings\smartinez\mis documentos\visual studio 2010\Projects\Apertura de archivos xml\Apertura de archivos xml\bin\Debug\Apertura de archivos xml.pdb
+c:\documents and settings\smartinez\mis documentos\visual studio 2010\Projects\Apertura de archivos xml\Apertura de archivos xml\bin\Debug\Apertura de archivos xml.xml
+c:\documents and settings\smartinez\mis documentos\visual studio 2010\Projects\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\smartinez\mis documentos\visual studio 2010\Projects\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\Apertura_de_archivos_xml.Resources.resources
+c:\documents and settings\smartinez\mis documentos\visual studio 2010\Projects\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+c:\documents and settings\smartinez\mis documentos\visual studio 2010\Projects\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+c:\documents and settings\smartinez\mis documentos\visual studio 2010\Projects\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\Apertura de archivos xml.exe
+c:\documents and settings\smartinez\mis documentos\visual studio 2010\Projects\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\Apertura de archivos xml.xml
+c:\documents and settings\smartinez\mis documentos\visual studio 2010\Projects\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\Apertura de archivos xml.pdb
+C:\Documents and Settings\smartinez\mis documentos\visual studio 2010\Projects\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\Apertura_de_archivos_xml.Login.resources
+C:\Documents and Settings\smartinez\mis documentos\visual studio 2010\Projects\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\Apertura_de_archivos_xml.Apertura.resources
+C:\Documents and Settings\smartinez\mis documentos\visual studio 2010\Projects\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\Interop.CAPTURELib.dll
+C:\Documents and Settings\smartinez\mis documentos\visual studio 2010\Projects\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\Apertura de archivos xml.vbproj.ResolveComReference.cache
+C:\Documents and Settings\smartinez\mis documentos\visual studio 2010\Projects\Apertura de archivos xml\Apertura de archivos xml\bin\Debug\Interop.CAPICOM.dll
+C:\Documents and Settings\smartinez\mis documentos\visual studio 2010\Projects\Apertura de archivos xml\Apertura de archivos xml\bin\Debug\Interop.CAPTURELib.dll
+C:\Documents and Settings\smartinez\mis documentos\visual studio 2010\Projects\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\Interop.CAPICOM.dll
+C:\Documents and Settings\smartinez\mis documentos\visual studio 2010\Projects\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\GenerateResource-ResGen.read.6.tlog
+C:\Documents and Settings\smartinez\mis documentos\visual studio 2010\Projects\Apertura de archivos xml\Apertura de archivos xml\bin\Debug\Apertura de archivos xml.exe.config
+C:\Documents and Settings\smartinez\mis documentos\visual studio 2010\Projects\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\Apertura_de_archivos_xml.Proyectos.resources
+C:\Documents and Settings\smartinez\Mis documentos\Visual Studio 2010\Projects\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\Apertura_de_archivos_xml.actualizarpro.resources
+C:\Documents and Settings\smartinez\Mis documentos\Visual Studio 2010\Projects\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\Apertura_de_archivos_xml.Alta_P.resources
+C:\Documents and Settings\smartinez\Mis documentos\Visual Studio 2010\Projects\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\Apertura_de_archivos_xml.NotasTemas.resources
+C:\Documents and Settings\smartinez\Mis documentos\Visual Studio 2010\Projects\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\Apertura_de_archivos_xml.Temas.resources
+C:\Documents and Settings\jfranco\Escritorio\Apertura de archivos xml\Apertura de archivos xml\bin\Debug\Apertura de archivos xml.exe.config
+C:\Documents and Settings\jfranco\Escritorio\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\Interop.CAPICOM.dll
+C:\Documents and Settings\jfranco\Escritorio\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\Interop.CAPTURELib.dll
+C:\Documents and Settings\jfranco\Escritorio\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\Apertura de archivos xml.vbproj.ResolveComReference.cache
+C:\Documents and Settings\jfranco\Escritorio\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\Apertura de archivos xml.exe
+C:\Documents and Settings\jfranco\Escritorio\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\Apertura de archivos xml.xml
+C:\Documents and Settings\jfranco\Escritorio\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\Apertura de archivos xml.pdb
+C:\Documents and Settings\jfranco\Escritorio\Apertura de archivos xml\Apertura de archivos xml\bin\Debug\Apertura de archivos xml.exe
+C:\Documents and Settings\jfranco\Escritorio\Apertura de archivos xml\Apertura de archivos xml\bin\Debug\Apertura de archivos xml.pdb
+C:\Documents and Settings\jfranco\Escritorio\Apertura de archivos xml\Apertura de archivos xml\bin\Debug\Apertura de archivos xml.xml
+C:\Documents and Settings\jfranco\Escritorio\Apertura de archivos xml\Apertura de archivos xml\bin\Debug\Interop.CAPICOM.dll
+C:\Documents and Settings\jfranco\Escritorio\Apertura de archivos xml\Apertura de archivos xml\bin\Debug\Interop.CAPTURELib.dll
+C:\Documents and Settings\jfranco\Escritorio\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\jfranco\Escritorio\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\Apertura_de_archivos_xml.actualizarpro.resources
+C:\Documents and Settings\jfranco\Escritorio\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\Apertura_de_archivos_xml.Alta_P.resources
+C:\Documents and Settings\jfranco\Escritorio\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\Apertura_de_archivos_xml.Apertura.resources
+C:\Documents and Settings\jfranco\Escritorio\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\Apertura_de_archivos_xml.NotasTemas.resources
+C:\Documents and Settings\jfranco\Escritorio\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\Apertura_de_archivos_xml.Login.resources
+C:\Documents and Settings\jfranco\Escritorio\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\Apertura_de_archivos_xml.Resources.resources
+C:\Documents and Settings\jfranco\Escritorio\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\Apertura_de_archivos_xml.Proyectos.resources
+C:\Documents and Settings\jfranco\Escritorio\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\Apertura_de_archivos_xml.Temas.resources
+C:\Documents and Settings\jfranco\Escritorio\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\jfranco\Escritorio\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\GenerateResource-ResGen.read.6.tlog
+C:\Documents and Settings\jfranco\Escritorio\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\jfranco\Mis documentos\Apertura de archivos xml\Apertura de archivos xml\bin\Debug\Apertura de archivos xml.exe.config
+C:\Documents and Settings\jfranco\Mis documentos\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\Interop.CAPICOM.dll
+C:\Documents and Settings\jfranco\Mis documentos\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\Interop.CAPTURELib.dll
+C:\Documents and Settings\jfranco\Mis documentos\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\Apertura de archivos xml.vbproj.ResolveComReference.cache
+C:\Documents and Settings\jfranco\Mis documentos\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\Apertura de archivos xml.exe
+C:\Documents and Settings\jfranco\Mis documentos\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\Apertura de archivos xml.xml
+C:\Documents and Settings\jfranco\Mis documentos\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\Apertura de archivos xml.pdb
+C:\Documents and Settings\jfranco\Mis documentos\Apertura de archivos xml\Apertura de archivos xml\bin\Debug\Apertura de archivos xml.exe
+C:\Documents and Settings\jfranco\Mis documentos\Apertura de archivos xml\Apertura de archivos xml\bin\Debug\Apertura de archivos xml.pdb
+C:\Documents and Settings\jfranco\Mis documentos\Apertura de archivos xml\Apertura de archivos xml\bin\Debug\Apertura de archivos xml.xml
+C:\Documents and Settings\jfranco\Mis documentos\Apertura de archivos xml\Apertura de archivos xml\bin\Debug\Interop.CAPICOM.dll
+C:\Documents and Settings\jfranco\Mis documentos\Apertura de archivos xml\Apertura de archivos xml\bin\Debug\Interop.CAPTURELib.dll
+C:\Documents and Settings\jfranco\Mis documentos\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\jfranco\Mis documentos\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\Apertura_de_archivos_xml.actualizarpro.resources
+C:\Documents and Settings\jfranco\Mis documentos\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\Apertura_de_archivos_xml.Alta_P.resources
+C:\Documents and Settings\jfranco\Mis documentos\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\Apertura_de_archivos_xml.Apertura.resources
+C:\Documents and Settings\jfranco\Mis documentos\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\Apertura_de_archivos_xml.NotasTemas.resources
+C:\Documents and Settings\jfranco\Mis documentos\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\Apertura_de_archivos_xml.Login.resources
+C:\Documents and Settings\jfranco\Mis documentos\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\Apertura_de_archivos_xml.Resources.resources
+C:\Documents and Settings\jfranco\Mis documentos\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\Apertura_de_archivos_xml.Proyectos.resources
+C:\Documents and Settings\jfranco\Mis documentos\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\Apertura_de_archivos_xml.Temas.resources
+C:\Documents and Settings\jfranco\Mis documentos\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\jfranco\Mis documentos\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\GenerateResource-ResGen.read.6.tlog
+C:\Documents and Settings\jfranco\Mis documentos\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\jfranco\Mis documentos\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\Apertura_de_archivos_xml.Imppdf.resources
+C:\Documents and Settings\jfranco\Mis documentos\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\Apertura_de_archivos_xml.seltema.resources
+C:\Documents and Settings\jfranco\Mis documentos\Apertura de archivos xml\Apertura de archivos xml\bin\Debug\itextsharp.dll
+C:\Documents and Settings\jfranco\Mis documentos\Visual Studio 2010\Projects\Apertura de archivos xml\Apertura de archivos xml\bin\Debug\Apertura de archivos xml.exe.config
+C:\Documents and Settings\jfranco\Mis documentos\Visual Studio 2010\Projects\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\Interop.CAPICOM.dll
+C:\Documents and Settings\jfranco\Mis documentos\Visual Studio 2010\Projects\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\Interop.CAPTURELib.dll
+C:\Documents and Settings\jfranco\Mis documentos\Visual Studio 2010\Projects\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\Apertura de archivos xml.vbproj.ResolveComReference.cache
+C:\Documents and Settings\jfranco\Mis documentos\Visual Studio 2010\Projects\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\Apertura de archivos xml.exe
+C:\Documents and Settings\jfranco\Mis documentos\Visual Studio 2010\Projects\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\Apertura de archivos xml.xml
+C:\Documents and Settings\jfranco\Mis documentos\Visual Studio 2010\Projects\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\Apertura de archivos xml.pdb
+C:\Documents and Settings\jfranco\Mis documentos\Visual Studio 2010\Projects\Apertura de archivos xml\Apertura de archivos xml\bin\Debug\Apertura de archivos xml.exe
+C:\Documents and Settings\jfranco\Mis documentos\Visual Studio 2010\Projects\Apertura de archivos xml\Apertura de archivos xml\bin\Debug\Apertura de archivos xml.pdb
+C:\Documents and Settings\jfranco\Mis documentos\Visual Studio 2010\Projects\Apertura de archivos xml\Apertura de archivos xml\bin\Debug\Apertura de archivos xml.xml
+C:\Documents and Settings\jfranco\Mis documentos\Visual Studio 2010\Projects\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\jfranco\Mis documentos\Visual Studio 2010\Projects\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\Apertura_de_archivos_xml.actualizarpro.resources
+C:\Documents and Settings\jfranco\Mis documentos\Visual Studio 2010\Projects\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\Apertura_de_archivos_xml.Alta_P.resources
+C:\Documents and Settings\jfranco\Mis documentos\Visual Studio 2010\Projects\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\Apertura_de_archivos_xml.Apertura.resources
+C:\Documents and Settings\jfranco\Mis documentos\Visual Studio 2010\Projects\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\Apertura_de_archivos_xml.Imppdf.resources
+C:\Documents and Settings\jfranco\Mis documentos\Visual Studio 2010\Projects\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\Apertura_de_archivos_xml.NotasTemas.resources
+C:\Documents and Settings\jfranco\Mis documentos\Visual Studio 2010\Projects\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\Apertura_de_archivos_xml.Login.resources
+C:\Documents and Settings\jfranco\Mis documentos\Visual Studio 2010\Projects\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\Apertura_de_archivos_xml.Resources.resources
+C:\Documents and Settings\jfranco\Mis documentos\Visual Studio 2010\Projects\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\Apertura_de_archivos_xml.Proyectos.resources
+C:\Documents and Settings\jfranco\Mis documentos\Visual Studio 2010\Projects\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\Apertura_de_archivos_xml.seltema.resources
+C:\Documents and Settings\jfranco\Mis documentos\Visual Studio 2010\Projects\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\Apertura_de_archivos_xml.Temas.resources
+C:\Documents and Settings\jfranco\Mis documentos\Visual Studio 2010\Projects\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\jfranco\Mis documentos\Visual Studio 2010\Projects\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\GenerateResource-ResGen.read.6.tlog
+C:\Documents and Settings\jfranco\Mis documentos\Visual Studio 2010\Projects\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\jfranco\Mis documentos\Visual Studio 2010\Projects\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\jfranco\Mis documentos\Visual Studio 2010\Projects\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\jfranco\Documents\Visual Studio 2010\Projects\Apertura de archivos xml\Apertura de archivos xml\bin\Debug\Apertura de archivos xml.exe.config
+C:\Users\jfranco\Documents\Visual Studio 2010\Projects\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\Apertura de archivos xml.exe
+C:\Users\jfranco\Documents\Visual Studio 2010\Projects\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\Apertura de archivos xml.xml
+C:\Users\jfranco\Documents\Visual Studio 2010\Projects\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\Apertura de archivos xml.pdb
+C:\Users\jfranco\Documents\Visual Studio 2010\Projects\Apertura de archivos xml\Apertura de archivos xml\bin\Debug\Apertura de archivos xml.exe
+C:\Users\jfranco\Documents\Visual Studio 2010\Projects\Apertura de archivos xml\Apertura de archivos xml\bin\Debug\Apertura de archivos xml.pdb
+C:\Users\jfranco\Documents\Visual Studio 2010\Projects\Apertura de archivos xml\Apertura de archivos xml\bin\Debug\Apertura de archivos xml.xml
+C:\Users\jfranco\Documents\Visual Studio 2010\Projects\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jfranco\Documents\Visual Studio 2010\Projects\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\Apertura_de_archivos_xml.actualizarpro.resources
+C:\Users\jfranco\Documents\Visual Studio 2010\Projects\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\Apertura_de_archivos_xml.Alta_P.resources
+C:\Users\jfranco\Documents\Visual Studio 2010\Projects\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\Apertura_de_archivos_xml.Apertura.resources
+C:\Users\jfranco\Documents\Visual Studio 2010\Projects\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\Apertura_de_archivos_xml.Imppdf.resources
+C:\Users\jfranco\Documents\Visual Studio 2010\Projects\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\Apertura_de_archivos_xml.NotasTemas.resources
+C:\Users\jfranco\Documents\Visual Studio 2010\Projects\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\Apertura_de_archivos_xml.Login.resources
+C:\Users\jfranco\Documents\Visual Studio 2010\Projects\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\Apertura_de_archivos_xml.Resources.resources
+C:\Users\jfranco\Documents\Visual Studio 2010\Projects\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\Apertura_de_archivos_xml.Proyectos.resources
+C:\Users\jfranco\Documents\Visual Studio 2010\Projects\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\Apertura_de_archivos_xml.seltema.resources
+C:\Users\jfranco\Documents\Visual Studio 2010\Projects\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\Apertura_de_archivos_xml.Temas.resources
+C:\Users\jfranco\Documents\Visual Studio 2010\Projects\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\jfranco\Documents\Visual Studio 2010\Projects\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\GenerateResource-ResGen.read.6.tlog
+C:\Users\jfranco\Documents\Visual Studio 2010\Projects\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\jfranco\Documents\Visual Studio 2010\Projects\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\jfranco\Documents\Visual Studio 2010\Projects\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\jfranco\Documents\Visual Studio 2010\Projects\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\Apertura_de_archivos_xml.Ver_Nota.resources
+C:\Users\jfranco\Documents\Visual Studio 2010\Projects\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\Apertura_de_archivos_xml.Imagen.resources
+F:\jfranco\Documents\Visual Studio 2010\Projects\Apertura de archivos xml\Apertura de archivos xml\bin\Debug\Apertura de archivos xml.exe.config
+F:\jfranco\Documents\Visual Studio 2010\Projects\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\Apertura de archivos xml.exe
+F:\jfranco\Documents\Visual Studio 2010\Projects\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\Apertura de archivos xml.xml
+F:\jfranco\Documents\Visual Studio 2010\Projects\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\Apertura de archivos xml.pdb
+F:\jfranco\Documents\Visual Studio 2010\Projects\Apertura de archivos xml\Apertura de archivos xml\bin\Debug\Apertura de archivos xml.exe
+F:\jfranco\Documents\Visual Studio 2010\Projects\Apertura de archivos xml\Apertura de archivos xml\bin\Debug\Apertura de archivos xml.pdb
+F:\jfranco\Documents\Visual Studio 2010\Projects\Apertura de archivos xml\Apertura de archivos xml\bin\Debug\Apertura de archivos xml.xml
+F:\jfranco\Documents\Visual Studio 2010\Projects\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\jfranco\Documents\Visual Studio 2010\Projects\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\Apertura_de_archivos_xml.actualizarpro.resources
+F:\jfranco\Documents\Visual Studio 2010\Projects\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\Apertura_de_archivos_xml.Alta_P.resources
+F:\jfranco\Documents\Visual Studio 2010\Projects\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\Apertura_de_archivos_xml.Apertura.resources
+F:\jfranco\Documents\Visual Studio 2010\Projects\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\Apertura_de_archivos_xml.Imagen.resources
+F:\jfranco\Documents\Visual Studio 2010\Projects\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\Apertura_de_archivos_xml.Imppdf.resources
+F:\jfranco\Documents\Visual Studio 2010\Projects\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\Apertura_de_archivos_xml.NotasTemas.resources
+F:\jfranco\Documents\Visual Studio 2010\Projects\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\Apertura_de_archivos_xml.Login.resources
+F:\jfranco\Documents\Visual Studio 2010\Projects\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\Apertura_de_archivos_xml.Resources.resources
+F:\jfranco\Documents\Visual Studio 2010\Projects\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\Apertura_de_archivos_xml.Proyectos.resources
+F:\jfranco\Documents\Visual Studio 2010\Projects\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\Apertura_de_archivos_xml.seltema.resources
+F:\jfranco\Documents\Visual Studio 2010\Projects\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\Apertura_de_archivos_xml.Temas.resources
+F:\jfranco\Documents\Visual Studio 2010\Projects\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\Apertura_de_archivos_xml.Ver_Nota.resources
+F:\jfranco\Documents\Visual Studio 2010\Projects\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+F:\jfranco\Documents\Visual Studio 2010\Projects\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\GenerateResource-ResGen.read.6.tlog
+F:\jfranco\Documents\Visual Studio 2010\Projects\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\jfranco\Documents\Visual Studio 2010\Projects\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+F:\jfranco\Documents\Visual Studio 2010\Projects\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\uvillanueva\Documents\Visual Studio 2010\Projects\Apertura de archivos xml\Apertura de archivos xml\bin\Debug\Apertura de archivos xml.exe.config
+C:\Users\uvillanueva\Documents\Visual Studio 2010\Projects\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\Apertura de archivos xml.exe
+C:\Users\uvillanueva\Documents\Visual Studio 2010\Projects\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\Apertura de archivos xml.xml
+C:\Users\uvillanueva\Documents\Visual Studio 2010\Projects\Apertura de archivos xml\Apertura de archivos xml\obj\x86\Debug\Apertura de archivos xml.pdb

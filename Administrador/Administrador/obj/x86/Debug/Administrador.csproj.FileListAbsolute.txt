@@ -1,0 +1,11 @@
+C:\Users\adminsistemas.DIGITAL\Documents\Visual Studio 2010\Projects\Administrador\Administrador\bin\Debug\Administrador.exe
+C:\Users\adminsistemas.DIGITAL\Documents\Visual Studio 2010\Projects\Administrador\Administrador\bin\Debug\Administrador.pdb
+C:\Users\adminsistemas.DIGITAL\Documents\Visual Studio 2010\Projects\Administrador\Administrador\obj\x86\Debug\Administrador.Formularios.Catalogos.resources
+C:\Users\adminsistemas.DIGITAL\Documents\Visual Studio 2010\Projects\Administrador\Administrador\obj\x86\Debug\Administrador.Inicio.resources
+C:\Users\adminsistemas.DIGITAL\Documents\Visual Studio 2010\Projects\Administrador\Administrador\obj\x86\Debug\Administrador.Properties.Resources.resources
+C:\Users\adminsistemas.DIGITAL\Documents\Visual Studio 2010\Projects\Administrador\Administrador\obj\x86\Debug\Administrador.csproj.GenerateResource.Cache
+C:\Users\adminsistemas.DIGITAL\Documents\Visual Studio 2010\Projects\Administrador\Administrador\obj\x86\Debug\Administrador.exe
+C:\Users\adminsistemas.DIGITAL\Documents\Visual Studio 2010\Projects\Administrador\Administrador\obj\x86\Debug\Administrador.pdb
+C:\Users\adminsistemas.DIGITAL\Documents\Visual Studio 2010\Projects\Administrador\Administrador\obj\x86\Debug\Administrador.csprojResolveAssemblyReference.cache
+C:\Users\jfranco\Documents\codigos\Administrador\Administrador\obj\x86\Debug\Administrador.exe
+C:\Users\jfranco\Documents\codigos\Administrador\Administrador\obj\x86\Debug\Administrador.pdb

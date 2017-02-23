@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Administrador de Archivos.exe" version="1.0.0.13" publicKeyToken="aab93706fc9bd3a5" language="neutral" processorArchitecture="x86" type="win32" />
+  <description asmv2:iconFile="images.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Administrador de Archivos" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+    <commandLine file="Administrador de Archivos.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Administrador de Archivos.exe" size="104448">
+      <assemblyIdentity name="Administrador de Archivos" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>4I2BLw+UNuwV/05yxaXI2DXac0E=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="images.ico" size="25974">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>xsX08aGkVHQqGEe7zJG5YFVNoTs=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=DIGITAL\uvillanueva" issuerKeyHash="80bb46353346a1bd79cb3f52941aad57ab498dd9" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>giA5gnYyKAYFAAk6GnjuSs9Bjrs=</DigestValue></Reference></SignedInfo><SignatureValue>BCSUBXclJJJrfsZMC1j9HJz6Jtq02X6jeHQjTmAmE/WXZjB6wWPZsM0FrSo/3erpHfaGaenBjhRIIoeB0IUmL63o4Ow9I3roMeV3wmpz6jC8V9XtnI72Z6/yL/hWTGcMY2nEQz3Yn9KRAO0itAFj68d9y5kN7cIK5HGmC2o8A60=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>viFQCvo/tVpPT8MJm/T8T8JsMuwdJWzU4ZB8Sk0CHsgCu0IXuFgXgBRH4TSB+OBd3ewcWz4ugEq+IRt98VjTdZfTvv4E1/wR2YkwuWjSit60UT9JnHlQSFsFMYbps+YtlVjmMWr1WLPoIJ+axN0fcsU2mEd2AJgKYr7Vfx7b6A0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="bb8e41cf4aee781a3a0900050628327682392082" Description="" Url=""><as:assemblyIdentity name="Administrador de Archivos.exe" version="1.0.0.13" publicKeyToken="aab93706fc9bd3a5" language="neutral" processorArchitecture="x86" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DIGITAL\uvillanueva</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>WXJ/cfwJ407MvZL8XthtNAzvHMM=</DigestValue></Reference></SignedInfo><SignatureValue>RZM2jDFfWbfyKbhsC5UCza7PYYMjtSuf+0PXBnJ0L5xBYxKwvcbAp+n8wo3Uip9GqaFoymP5YYepPFnjk8tj0McfAnZgeKvMpp3p6wjsPxk3yd+31kmfbqMEc1mRQ31yKNtQgUMgSaMAriD/NyAA2mf09krLr/nHtGra5wFB4hA=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>viFQCvo/tVpPT8MJm/T8T8JsMuwdJWzU4ZB8Sk0CHsgCu0IXuFgXgBRH4TSB+OBd3ewcWz4ugEq+IRt98VjTdZfTvv4E1/wR2YkwuWjSit60UT9JnHlQSFsFMYbps+YtlVjmMWr1WLPoIJ+axN0fcsU2mEd2AJgKYr7Vfx7b6A0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB5TCCAU6gAwIBAgIQKBhfh+VOe6ZPcolZCEOL7DANBgkqhkiG9w0BAQUFADAxMS8wLQYDVQQDHiYARABJAEcASQBUAEEATABcAHUAdgBpAGwAbABhAG4AdQBlAHYAYTAeFw0xNDA4MTIxODA4MTZaFw0xNTA4MTMwMDA4MTZaMDExLzAtBgNVBAMeJgBEAEkARwBJAFQAQQBMAFwAdQB2AGkAbABsAGEAbgB1AGUAdgBhMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC+IVAK+j+1Wk9Pwwmb9PxPwmwy7B0lbNThkHxKTQIeyAK7Qhe4WBeAFEfhNIH44F3d7BxbPi6ASr4hG33xWNN1l9O+/gTX/BHZiTC5aNKK3rRRP0mceVBIWwUxhumz5i2VWOYxavVYs+ggn5rE3R9yxTaYR3YAmApivtV/HtvoDQIDAQABMA0GCSqGSIb3DQEBBQUAA4GBAGjfY9Xbbz5TB/OxsrLaf8wNXol+dVmTZkDLdmS7qw8PI8tm/13R2e9MVGk9pLxsSKU6maISMYx7kCcuYSERpeQWkHnx6afVckGmYKMsRZipYfyAOYjTdD2mLeoS22/4X9617CudJL9GJkU4dUJ2hn2Nro7IoBC6FJUR/nhO3xdQ</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <configSections>
+    </configSections>
+    <connectionStrings>
+        <add name="Servicios.My.MySettings.DigitalConnectionString" connectionString="Data Source=PCOPERACIONES25;Initial Catalog=Digital;Integrated Security=True"
+            providerName="System.Data.SqlClient" />
+        <add name="Servicios.My.MySettings.MSCENTRALDBConnectionString"
+            connectionString="Data Source=SRVMSDBVIR;Initial Catalog=MSCENTRALDB;User ID=lrosas;Password=lrosas"
+            providerName="System.Data.SqlClient" />
+    </connectionStrings>
+    <startup>
+        <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.0,Profile=Client" />
+    </startup>
+</configuration>

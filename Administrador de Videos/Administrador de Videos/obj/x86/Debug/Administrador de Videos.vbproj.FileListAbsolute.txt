@@ -1,0 +1,16 @@
+c:\users\uvillanueva\documents\visual studio 2010\Projects\Administrador de Videos\Administrador de Videos\obj\x86\Debug\Administrador de Videos.vbproj.GenerateResource.Cache
+C:\Users\uvillanueva\Documents\Visual Studio 2010\Projects\Administrador de Videos\Administrador de Videos\bin\Debug\Administrador de Archivos.exe.manifest
+C:\Users\uvillanueva\Documents\Visual Studio 2010\Projects\Administrador de Videos\Administrador de Videos\bin\Debug\Administrador de Archivos.application
+C:\Users\uvillanueva\Documents\Visual Studio 2010\Projects\Administrador de Videos\Administrador de Videos\bin\Debug\Administrador de Archivos.exe
+C:\Users\uvillanueva\Documents\Visual Studio 2010\Projects\Administrador de Videos\Administrador de Videos\bin\Debug\Administrador de Archivos.pdb
+C:\Users\uvillanueva\Documents\Visual Studio 2010\Projects\Administrador de Videos\Administrador de Videos\bin\Debug\Administrador de Archivos.xml
+C:\Users\uvillanueva\Documents\Visual Studio 2010\Projects\Administrador de Videos\Administrador de Videos\obj\x86\Debug\Administrador_de_Archivos.Form1.resources
+C:\Users\uvillanueva\Documents\Visual Studio 2010\Projects\Administrador de Videos\Administrador de Videos\obj\x86\Debug\Administrador_de_Archivos.Resources.resources
+C:\Users\uvillanueva\Documents\Visual Studio 2010\Projects\Administrador de Videos\Administrador de Videos\obj\x86\Debug\Administrador de Archivos.exe.manifest
+C:\Users\uvillanueva\Documents\Visual Studio 2010\Projects\Administrador de Videos\Administrador de Videos\obj\x86\Debug\Administrador de Archivos.application
+C:\Users\uvillanueva\Documents\Visual Studio 2010\Projects\Administrador de Videos\Administrador de Videos\obj\x86\Debug\Administrador de Archivos.exe
+C:\Users\uvillanueva\Documents\Visual Studio 2010\Projects\Administrador de Videos\Administrador de Videos\obj\x86\Debug\Administrador de Archivos.xml
+C:\Users\uvillanueva\Documents\Visual Studio 2010\Projects\Administrador de Videos\Administrador de Videos\obj\x86\Debug\Administrador de Archivos.pdb
+C:\Users\jfranco\Documents\codigos\Administrador de Videos\Administrador de Videos\obj\x86\Debug\Administrador de Archivos.exe
+C:\Users\jfranco\Documents\codigos\Administrador de Videos\Administrador de Videos\obj\x86\Debug\Administrador de Archivos.xml
+C:\Users\jfranco\Documents\codigos\Administrador de Videos\Administrador de Videos\obj\x86\Debug\Administrador de Archivos.pdb

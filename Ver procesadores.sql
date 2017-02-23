@@ -1,0 +1,1 @@
+Select StatusProceso,Tema_id from NV_Temas where StatusProceso>=100

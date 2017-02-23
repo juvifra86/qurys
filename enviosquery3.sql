@@ -1,0 +1,1 @@
+Select Autor1,Autor2,Autor3 from Notas with (nolock) Where Nota_id = 201305290342191201

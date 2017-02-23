@@ -1,0 +1,1 @@
+update Cat_Secciones set Conductor_Titular='' where Seccion_id=

@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
+	<title>Geolocalizacion</title>
+	<script type="text/javascript">	
+		
+		function getLocation() {
+		    if (navigator.geolocation) {
+		        navigator.geolocation.getCurrentPosition(showPosition);
+		    } else {
+		         alert('Geolocation is not supported by this browser.');
+		    }
+		}
+		function showPosition(position) {
+		    alert('Latitude=' + position.coords.latitude); 
+		    alert('Longitude=' + position.coords.longitude);
+		    
+		    //var dire=document.getelementById("direccion");
+		    //x.innerHTML = 'Latitud=' + position.coords.latitude + ', Longitud=' + position.coords.longitude + ',' + position.//coords.accuracy
+		    //var img = document.getElementById("imgdemo");
+    		//img.src = "http://maps.googleapis.com/maps/api/staticmap?center=" + position.coords.latitude + "," + position.coords.longitude + "&zoom=13&size=450x450&sensor=false";
+    		var dir = "";
+			var latlng = new google.maps.LatLng(position.coords.latitude,position.coords.longitude);
+			geocoder = new google.maps.Geocoder();
+			geocoder.geocode({"latLng": latlng}, function(results, status)
+			{
+				if (status == google.maps.GeocoderStatus.OK)
+				{
+					if (results[0])
+					{
+						dir = results[0].formatted_address;
+					}
+					else
+					{
+						dir = "No se ha podido obtener ninguna dirección en esas coordenadas.";
+					}
+				}
+				else
+				{
+					dir = "El Servicio de Codificación Geográfica ha fallado con el siguiente error: " + status + ".";
+				}
+				var x = document.getElementById("demo");
+				x.innerHTML = dir;
+			});
+		}
+		//function ErrorObtencion(PositionError){
+			//var x= document.getElementById("demo");
+			//switch (PositionError.code){
+				//case:PositionError.PERMISSION_DENIED:
+					//x.innerHTML='El usuario denego el permiso.';
+					//break;
+				//case:PositionError.POSITION_UNAVAILABLE:
+					//x.innerHTML='Posision inaccesible';
+
+			//}
+			
+			
+		//}
+
+	</script>
+</head>
+<body>
+	
+  	
+  
+  <textarea id="demo" style="width:750px; height:80px;"></textarea>
+
+  <div id=map>
+
+  </div> 
+  <!--img src="" id="imgdemo"-->
+  <script type="text/javascript">
+  	getLocation();
+  </script>
+</body>
+</html>

@@ -1,0 +1,1 @@
+select * from nv_usuarios_suscriptor where usuario like 'coyoacan'
